@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "b3525097-b22c-4285-9467-1f80f1ed665c",
+    "name": "Edgetame",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7867add5-2445-4209-a3bc-f44ecbd7f964",
+    "name": "War_Bed",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b20aae1a-6454-4cf7-9a9b-7109d17cb468",
+    "name": "caxlancuink",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "874e6cc4-dcda-4993-8866-9428e100a3bf",
+    "name": "captainwah",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
